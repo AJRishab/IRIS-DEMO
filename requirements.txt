@@ -1,2 +1,3 @@
 joblib
 matplotlib
+scikit-learn
